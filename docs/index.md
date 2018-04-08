@@ -81,11 +81,13 @@ $ git pull
 
 Everyone should also join the [Piazza](https://piazza.com/) group for the course. The Piazza forum is a place for you to discuss lectures, assignments, projects, exams etc. with other students. You should check it often and try to answer your classmates' questions. This kind of collaborative forum is used at most US universities to improve student communication. The TA might also join and moderate the discussion on occasion. Additionally, professor or the TA might put out course related announcements and post files through Piazza.
 
-Please use the following invitation link to the Piazza course page: [http://piazza.com/keio.ac.jp/spring2018/keio2018pyalgdat](http://piazza.com/keio.ac.jp/spring2018/keio2018pyalgdat).
+Please use the following invitation link to the Piazza course page: 
+[http://piazza.com/keio.ac.jp/spring2018/keio2018pyalgdat](http://piazza.com/keio.ac.jp/spring2018/keio2018pyalgdat).
 
 For live discussion, as well as contacting the professor and the TA (e.g. to schedule a meeting in case of a problem etc.) there is a [Slack](https://slack.com/) channel for the course.
 
-Please use the following invitation link to join the Slack channel: [https://join.slack.com/t/keio2018pyalgdat/shared_invite/enQtMzQzMDA4MDk1MjE5LWNjNTM3NGIxZWMyOWQxMjAzNThiODA0NzExZjZkODVmODcwN2VmNDI0NDE5ZWJjMjBiOGIxYTYwOWU4YzQ5NmI](https://join.slack.com/t/keio2018pyalgdat/shared_invite/enQtMzQzMDA4MDk1MjE5LWNjNTM3NGIxZWMyOWQxMjAzNThiODA0NzExZjZkODVmODcwN2VmNDI0NDE5ZWJjMjBiOGIxYTYwOWU4YzQ5NmI).
+Please use the following invitation link to join the Slack channel: 
+[https://join.slack.com/t/keio2018pyalgdat/shared_invite/enQtMzQzMDA4MDk1MjE5LWNjNTM3NGIxZWMyOWQxMjAzNThiODA0NzExZjZkODVmODcwN2VmNDI0NDE5ZWJjMjBiOGIxYTYwOWU4YzQ5NmI](https://join.slack.com/t/keio2018pyalgdat/shared_invite/enQtMzQzMDA4MDk1MjE5LWNjNTM3NGIxZWMyOWQxMjAzNThiODA0NzExZjZkODVmODcwN2VmNDI0NDE5ZWJjMjBiOGIxYTYwOWU4YzQ5NmI).
 
 Lecture notes should be sufficient, hence attending every lecture is highly recommended. In addition to the lectures, the following books might be useful as a reference for foundational concepts (although they are not officially required for the course):
 
