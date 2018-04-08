@@ -30,7 +30,7 @@ IEEE - 2017 ranking of programming languages:
 
 # ABOUT THE INSTRUCTOR
 
-<span style="display:block;text-align:center">![instructor](media/instructor.jpg){:height="30%" width="30%"}</span>
+<span style="display:block;text-align:center">![instructor](media/instructor1.jpg){:height="30%" width="30%"}</span>
 
 I'm an American research scientist working on Artificial Intelligence. My main interests are Deep Neural Networks, Computational Linguistics / NLP, and Reinforcement Learning. I'm also interested in Economics, Law, and Entrepreneurship. I've been a founding member of the Chicago Innovation Exchange (center for new technology startups in Chicago, sponsored by the Booth School of Business at the University of Chicago) where I advised new technology companies. I have worked as a developer implementing artificial intelligence algorithms in a business setting, and I held executive positions in software industry. I have been applying AI techniques to a variety of problems outside of computer science, such as algorithmic trading (also winning data science competitions in the US using those approaches). My hobbies include traveling, reading, and making electronic music (I've lived in several countries and visited more than twenty, spanning multiple continents). I particularly enjoy visiting Tokyo, and it has been my frequent destination throughout life.
 
