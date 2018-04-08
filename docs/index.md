@@ -69,7 +69,7 @@ Grades will be communicated via [GradeScope](https://gradescope.com/).
 Course materials will be posted in the course GitHub repository under the the <em>class</em> directory. In order to obtain the latest version of the repository first clone it on your system:
 
 ```
-$ git clone https://github.com/stephenfitz/data-processing.git
+$ git clone https://github.com/stephenfitz/keio2018pyalgdat.git
 ```
 
 then periodically pull the changes:
