@@ -75,7 +75,7 @@ $ git clone https://github.com/stephenfitz/keio2018pyalgdat.git
 then periodically pull the changes:
 
 ```
-$ cd data-processing
+$ cd keio2018pyalgdat
 $ git pull
 ```
 
