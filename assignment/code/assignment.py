@@ -251,7 +251,7 @@ def graph_top_k(wfd, top_k, file_name):
     plt.title('Brown corpus word frequency')
     # plt.show()
     plt.tight_layout()
-    plt.savefig(figure=fig, filename=file_name, pad_inches=0.5)
+    plt.savefig(figure=fig, fname=file_name, pad_inches=0.5)
 
 ###########################
 #                         #
